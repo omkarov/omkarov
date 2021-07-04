@@ -28,5 +28,13 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarov&&langs_count=8&layout=compact&theme=dark" alt="omkarov top lang" height="150" width="400" />
   <br/>
 </p>
+
+<p>
+    
+   
+
+</p
 <br>
 <hr>
+
+ [![counter](https://enet63i8u08omiz.m.pipedream.net)](https://github.com/omkarov/omkarov)
